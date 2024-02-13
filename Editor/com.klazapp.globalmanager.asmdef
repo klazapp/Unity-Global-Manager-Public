@@ -1,5 +1,5 @@
 {
-    "name": "NewAssembly",
+    "name": "klazapp.global.manager.editor",
     "rootNamespace": "",
     "references": [
         "Unity.Mathematics"
