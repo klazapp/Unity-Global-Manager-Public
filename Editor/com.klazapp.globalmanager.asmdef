@@ -1,7 +1,9 @@
 {
     "name": "NewAssembly",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "Unity.Mathematics"
+    ],
     "includePlatforms": [
         "Editor"
     ],
